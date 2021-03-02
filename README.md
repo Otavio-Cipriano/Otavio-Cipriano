@@ -1,10 +1,10 @@
 ## About me:
 
-My name is Otávio Cipriano, I currently live in São Paulo, Brasil and i am a web developer or i considere myself one.
+My name is Otávio Cipriano, I currently live in São Paulo, Brasil and I am a web developer or I consider myself one.
 
-I started studying programming since 2018 with C# and .NET. I had as objective make games, but not for work to a big company that maked a game i like, but make games for myself and people who maybe like the same things than me.
+I started studying programming in 2018 with C# and I was aiming to make games, but not to work for a big company that made a game I like, but to make games for myself and for people who might like the same things I do.
 
-Nowadays i started like more of programming mainly web development and i am focusing more on learn for work as web developer.
+Nowadays, I have started to enjoy programming more, especially web development and am focusing more on learning more and working as a web developer. 
 
 ## Detailed information
 
@@ -16,6 +16,5 @@ Nowadays i started like more of programming mainly web development and i am focu
  
 ## Some Curiosities
 
-- I'm really fan of Eletronic RPG mainly the Dragon Quest Franchise and i had as entrie the third game of franchise.
-- I make sites since i was a kid when my sister started a profisionalizant course and i got really curious and I went after learn more about what was web designer and how to make a site.
+- I am a real fan of electronic RPGs, especially the Dragon Quest franchise.
 - I did 5 year of Judo when i was a kid. 
