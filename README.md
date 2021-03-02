@@ -1,5 +1,9 @@
 ## About me:
-* * *
+
+
+---
+
+
 My name is Otávio Cipriano, I currently live in São Paulo, Brasil and i am a web developer or i considere myself one.
 
 I started studying programming since 2018 with C# and .NET. I had as objective make games, but not for work to a big company that maked a game i like, but make games for myself and people who maybe like the same things than me.
@@ -7,7 +11,9 @@ I started studying programming since 2018 with C# and .NET. I had as objective m
 Nowadays i started like more of programming mainly web development and i am focusing more on learn for work as web developer.
 
 ### Detailed information
-* * *
+
+
+---
 
 - **Name:** Otávio Cipriano
 - **Age:** 20
