@@ -13,8 +13,3 @@ Nowadays, I have started to enjoy programming more, especially web development a
 - **Living in:** Suzano, Brasil
 - **Stack:** Nodejs - React or Angular - MongoDB or Firebase - SQL - NOSQL 
 - **University:** Technologist Degree in IT Management.
- 
-## Some Curiosities
-
-- I am a real fan of electronic RPGs, especially the Dragon Quest franchise.
-- I did 5 year of Judo when i was a kid. 
