@@ -13,3 +13,7 @@ Nowadays, I have started to enjoy programming more, especially web development a
 - **Living in:** Suzano, Brasil
 - **Stack:** Nodejs - React or Angular - MongoDB or Firebase - SQL - NOSQL 
 - **University:** Technologist Degree in IT Management.
+
+## Total of Visits of perfil
+
+![Visitor Count](https://profile-counter.glitch.me/{Otavio-Cipriano}/count.svg)
