@@ -16,4 +16,4 @@ Nowadays, I have started to enjoy programming more, especially web development a
 
 ## Total of Visits of perfil
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Otavio-Cipriano}/count.svg" alt="Vistis Count"/></p>
+<p align="center"><img height="40" src="https://profile-counter.glitch.me/{Otavio-Cipriano}/count.svg" alt="Vistis Count"/></p>
