@@ -1,3 +1,8 @@
+<p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Otavio-Cipriano&show_icons=true&theme=dark&hide=contribs,prs" alt="Otavio Cipriano's GitHub stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
+</p>
+
 ## About me:
 
 My name is Otávio Cipriano, I currently live in São Paulo, Brasil and I am a web developer or I consider myself one.
