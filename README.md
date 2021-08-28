@@ -14,10 +14,8 @@ Nowadays, I have started to enjoy programming more, especially web development a
 ## Detailed information
 
 - **Name:** Otávio Cipriano
-- **Age:** 20
-- **Living in:** Suzano, Brasil
 - **Stack:** Nodejs - React or Angular - MongoDB or Firebase - SQL - NOSQL 
-- **University:** Technologist Degree in IT Management.
+- **Degree:** Technologist Degree in IT Management.
 
 ## Total of Visits of perfil
 
