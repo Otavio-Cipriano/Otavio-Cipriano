@@ -2,11 +2,6 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Otavio-Cipriano&show_icons=true&theme=dark&hide=contribs,prs" alt="Otavio Cipriano's GitHub stats"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
 </p>
-<p>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-</p>
 
 ## About me:
 
@@ -21,6 +16,16 @@ Nowadays, I have started to enjoy programming more, especially web development a
 - **Name:** Otávio Cipriano
 - **Stack:** Nodejs - React, NextJs - MongoDB or Firebase - SQL - NOSQL 
 - **Degree:** Technologist Degree in IT Management.
+
+## Technologies
+<p>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
+</p>
+
 
 ## Total of Visits of perfil
 
