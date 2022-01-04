@@ -11,19 +11,20 @@ I started studying programming in 2018 with C# and I was aiming to make games, b
 
 Nowadays, I have started to enjoy programming more, especially web development and am focusing on learning more and working as a web developer. 
 
-## Detailed information
+## Detailed information:
 
 - **Name:** Otávio Cipriano
 - **Stack:** Nodejs - React, NextJs - MongoDB or Firebase - SQL - NOSQL 
 - **Degree:** Technologist Degree in IT Management.
 
-## Technologies
+## Technologies:
+
 <p>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
 </p>
 
 
