@@ -5,7 +5,7 @@
     <a target='_blank' href="https://www.linkedin.com/in/otavio-felipe-cipriano/" width='200px'>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://portfolio-otavio-cipriano.vercel.app/" width='200px'>
+    <a target='_blank' href="https://otaviocipriano.vercel.app/" width='200px'>
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
 </div>
