@@ -26,7 +26,7 @@ Nowadays, I have started to enjoy programming more, especially web development a
 
 **Name:** Otávio Cipriano
 
-**Stack:** Nodejs - React, NextJs - MongoDB or Firebase - SQL - NOSQL 
+**Stack:** Nodejs - React, NextJs - MongoDB
 
 **Degree:** Technologist Degree in IT Management.
 
