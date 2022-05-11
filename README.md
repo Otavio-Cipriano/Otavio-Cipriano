@@ -39,8 +39,3 @@ Nowadays, I have started to enjoy programming more, especially web development a
 <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
 <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
 </p>
-
-
-## 
-
-<p align="center"><img height="40" src="https://profile-counter.glitch.me/{Otavio-Cipriano}/count.svg" alt="Vistis Count"/></p>
