@@ -39,7 +39,7 @@ I am a Front-End developer passionated for javascript and CSS that mainly uses J
 ---
 
 <p align="center">
-<img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=otavio-cipriano&theme=dark" alt="Otavio Cipriano's Streaks"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Otavio-Cipriano&show_icons=true&theme=dark&,prs" alt="Otavio Cipriano's GitHub stats"/>
 </p>
