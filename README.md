@@ -42,6 +42,8 @@ I am a Front-End developer passionated for coding that mainly uses Javascript, R
      <img height="30" src="https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 
+## Stats
+
 <p >
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
