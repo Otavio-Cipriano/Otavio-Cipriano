@@ -21,9 +21,10 @@ I am a Front-End developer passionated for coding that mainly uses Javascript, R
 - 21 years old
 - Based in SP, Brasil 
 - I have a IT management degree
-- Currently, I'm working on land an oportunity as a Frontend developer
+- Trying land an oportunity as a Frontend developer
 - Ask me about javascript, CSS, React.js, NextJs and maybe NodeJs
 - Fan of Giant Robots
+- Currently working on [todo-app-challenge](https://github.com/Otavio-Cipriano/todo-app-challenge/) and [movies-app](https://github.com/Otavio-Cipriano/movies-app/)
 
 
 ## Languages and Tools:
