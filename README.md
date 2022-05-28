@@ -16,7 +16,7 @@
 
 ## About me:
 
-I am a Front-End developer passionated for coding that mainly uses Javascript, Reactjs and Sass in your projects, besides that I have a few of experiencie with Nodejs, .Net and Angular
+I am a Web developer passionated for coding that mainly uses NodeJs, Reactjs\Nextjs and Sass in your projects, besides that I have a few of experiencie with .Net and Angular
 
 - 21 years old
 - Based in SP, Brasil 
