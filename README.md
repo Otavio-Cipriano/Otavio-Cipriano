@@ -10,7 +10,7 @@
     </a>
 </p>
 
-## Hey, I'm Otávio Cipriano
+## Hi, I'm Otávio Cipriano
 
 
 
