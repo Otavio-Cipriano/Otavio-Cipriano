@@ -24,7 +24,6 @@ I am a Web developer passionated for coding that mainly uses NodeJs, Reactjs\Nex
 - Trying land an oportunity as a Frontend developer
 - Ask me about javascript, CSS, React.js, NextJs and maybe NodeJs
 - Fan of Giant Robots
-- Currently working on [movies-app](https://github.com/Otavio-Cipriano/movies-app/)
 
 
 ## Languages and Tools:
