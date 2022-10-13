@@ -39,6 +39,7 @@ I am a Web developer passionated for coding that mainly uses NodeJs, Reactjs\Nex
     <br/>
      <img height="30" src="https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white">
      <img height="30" src="https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white">
+     <img height="30" src="https://img.shields.io/badge/adonis%20js-000000?style=for-the-badge&logo=adonisjs&logoColor=white">
 </p>
 
 ## Stats
