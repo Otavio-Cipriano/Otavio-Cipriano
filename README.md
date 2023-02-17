@@ -17,7 +17,7 @@ I am a Web developer passionated for coding that mainly uses NodeJs, Reactjs\Nex
 
 - Based in SP, Brasil 
 - I have a IT management degree
-- Trying land an oportunity as a Frontend developer
+- Trying land an oportunity as a Junior
 - Ask me about javascript, CSS, React.js, NextJs and maybe NodeJs
 - Fan of Giant Robots
 
