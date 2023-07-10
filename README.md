@@ -13,8 +13,6 @@
 
 ## About me:
 
-I am a Web developer passionated for coding that mainly uses NodeJs, Reactjs\Nextjs and Sass in your projects.
-
 - Based in SP, Brasil 
 - I have a IT management degree
 - Trying land an oportunity as a Junior
