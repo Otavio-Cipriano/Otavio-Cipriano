@@ -20,23 +20,6 @@
 - Fan of Giant Robots
 
 
-## Languages and Tools:
-
-<p >
-     <img height="30" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
-     <img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-     <img height="30" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <br/>
-     <img height="30" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
-     <img height="30" src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white">
-    <br/>
-     <img height="30" src="https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white">
-     <img height="30" src="https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white">
-     <img height="30" src="https://img.shields.io/badge/adonis%20js-000000?style=for-the-badge&logo=adonisjs&logoColor=white">
-</p>
-
 ## Stats
 
 <p >
