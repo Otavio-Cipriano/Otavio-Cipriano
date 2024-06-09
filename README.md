@@ -21,4 +21,9 @@
 
 
 
+<p >
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Otavio-Cipriano&show_icons=true&theme=dark&,prs" alt="Otavio Cipriano's GitHub stats"/>
+</p>
 
