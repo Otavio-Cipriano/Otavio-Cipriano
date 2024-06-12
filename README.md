@@ -15,15 +15,13 @@
 
 - Based in SP, Brasil 
 - I have a IT management degree
-- Trying land an oportunity as a Junior
-- Ask me about javascript, CSS, React.js, NextJs and maybe NodeJs
+- Currently enrolled in a Bachelor's program in Control and Automation Engineering.
+- Ask me about javascript, NodeJs, PHP and Python
 - Fan of Giant Robots
 
 
 
 <p >
-
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Otavio-Cipriano&show_icons=true&theme=dark&,prs" alt="Otavio Cipriano's GitHub stats"/>
 </p>
 
