@@ -15,7 +15,7 @@
 
 - Based in SP, Brasil 
 - I have a IT management degree
-- Currently enrolled in a Bachelor's program in Control and Automation Engineering.
+- Studying Analysis and Systems Development at FATEC - MC.
 - Ask me about javascript, NodeJs, PHP and Python
 - Fan of Giant Robots
 
