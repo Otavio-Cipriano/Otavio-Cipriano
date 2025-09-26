@@ -19,9 +19,3 @@
 - Ask me about javascript, NodeJs, PHP and Python
 - Fan of Giant Robots
 
-
-
-<p >
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Cipriano&layout=compact&theme=dark" alt="Otavio Cipriano's Top Langs"/>
-</p>
-
