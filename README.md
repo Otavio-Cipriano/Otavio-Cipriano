@@ -14,7 +14,6 @@
 ## About me:
 
 - Based in SP, Brasil 
-- I have a IT management degree
 - Studying Analysis and Systems Development at FATEC - MC.
 - Ask me about javascript, NodeJs, PHP and Python
 - Fan of Giant Robots
